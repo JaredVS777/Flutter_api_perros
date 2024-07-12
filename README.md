@@ -1,17 +1,10 @@
-# flutter_application_1
+# Api de perros
 
-A new Flutter project.
+Crear un proyecto nuevo de flutter y crear las carpetas services, provider y models
+![image](https://github.com/user-attachments/assets/a166c77c-0c3d-400e-b2dd-2684f3361272)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Resultados
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/7384ae1c-d7b8-45e2-bfda-b95ef9db19ff)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_api_perros
